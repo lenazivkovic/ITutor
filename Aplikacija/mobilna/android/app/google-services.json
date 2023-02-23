@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349737232952",
+    "project_id": "itutor-6659e",
+    "storage_bucket": "itutor-6659e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349737232952:android:bae883ed52fba36251d4cd",
+        "android_client_info": {
+          "package_name": "com.jail.itutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349737232952-un9loaq8dgjbgdccplanbma5bdttiqgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jail.itutor",
+            "certificate_hash": "5892967642293915dbd24d2a7a0e4a2e9557677d"
+          }
+        },
+        {
+          "client_id": "349737232952-tjb5l2lvsupq3a677dql3atklnskfhpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr4Ch2xylxxCUoEYVnGFB4WKdaaXFmU0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349737232952-tjb5l2lvsupq3a677dql3atklnskfhpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
