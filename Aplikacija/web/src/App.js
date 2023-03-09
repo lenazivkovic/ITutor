@@ -26,13 +26,13 @@ import { theme } from './Components/Theme';
 //--Firebase configuration--
 const firebaseConfig = {
 
-  apiKey: "AIzaSyD2p28xTEXysFkXUcHxA6cUjE3QtPsxq6A",
-  authDomain: "itutor-6659e.firebaseapp.com",
-  projectId: "itutor-6659e",
-  storageBucket: "itutor-6659e.appspot.com",
-  messagingSenderId: "349737232952",
-  appId: "1:349737232952:web:36416adaf0adc40851d4cd",
-  measurementId: "G-G0Q2MKM7HD"
+  apiKey: "" ,
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 
 };
 
